@@ -15,7 +15,7 @@ A new and revamped theme for the metasearch engine [Searx](https://github.com/se
 
 1. Install Stylebot in [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/) or [Chrome](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
 
-2. Download the Theme.json file from Github
+2. Download the [Theme.json](https://github.com/LeslyeCream/Searx-Theme/releases/tag/1.0) file from Github
 
 3. Inside Stylebot open "Options", then "Sync" and finally "import". Import the previously downloaded file. Done! 
 
