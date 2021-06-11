@@ -1,4 +1,4 @@
-# SearX-Theme
+# SearX-Theme (Emerald)
 
 ### Disclaimer
 
@@ -10,12 +10,10 @@ A new and revamped theme for the metasearch engine [Searx](https://github.com/se
 
 ## Screenshots
 
-![](https://github.com/LeslyeCream/Searx-Theme/blob/main/Results.png)
-![](https://github.com/LeslyeCream/Searx-Theme/blob/main/Images.png)
-
+![](https://github.com/LeslyeCream/Searx-Theme/raw/main/Screenshot.png)
 ## How to use it ? 
 
-1. Install Stylebot in Firefox or Chrome
+1. Install Stylebot in [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/) or [Chrome](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
 
 2. Download the Theme.json file from Github
 
@@ -25,18 +23,18 @@ A new and revamped theme for the metasearch engine [Searx](https://github.com/se
 
 **Does it work with public and private instances ?**
 
-Yes, it does! Just make sure that the "Logicodev" theme is previously selected. 
+Yes, it does! Just make sure that the "Logicodev" theme is previously selected. If it doesn't work, you can replace the url inside the Stylebot settings. Or directly from the JSON file
 
 **Can I use it from my phone?**
 
-Currently it is only possible from some Chronium based browsers. Either kiwi Browser or Yandex Browser. Firefox does not allow to install any extensions yet. But since the theme is made with CSS it should basically work with any other extension that allows it. Stylish for example. 
+Currently it is only possible from some Chromium based browsers. Either kiwi Browser or Yandex Browser. Firefox does not allow to install any extensions yet. But since the theme is made with CSS it should basically work with any other extension that allows it. Stylish for example. 
 
 **What doesn't work ?**
 
 1. In firefox it might corrupt the theme and not look as good as it should. Feel free to fix it or improve it if that's the case.
 
-2. In case some results come from several search engines, your tags might get out of the box (especially in your mobile version).
+2. In case some results come from several search engines, your tags might get out of the box (especially in your mobile version or low resolution).
 
-
+3. Minor color inconsistencies
 
 
