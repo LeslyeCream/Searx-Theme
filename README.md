@@ -31,10 +31,20 @@ Currently it is only possible from some Chromium based browsers. Either kiwi Bro
 
 **What doesn't work ?**
 
-1. In firefox it might corrupt the theme and not look as good as it should. Feel free to fix it or improve it if that's the case.
+1. In firefox it might corrupt the theme and not look as good as it should. 
 
 2. In case some results come from several search engines, your tags might get out of the box (especially in your mobile version or low resolution).
 
 3. Minor color inconsistencies
+
+4. SearX home page (the design is intended only when displaying results) 
+
+5. The preferences button is not available
+
+6. Some unknown details
+
+## Notes
+
+_For personal, non-commercial use only. Feel free to share, modify or improve it without forgetting to mention the original project._
 
 
