@@ -22,11 +22,16 @@ A new and revamped theme for the metasearch engine [Searx](https://github.com/se
 
 Yes, it does! Just make sure that the "Logicodev" theme is previously selected. 
 
+**Can I use it from my phone?**
+
+Currently it is only possible from some Chronium based browsers. Either kiwi Browser or Yandex Browser. Firefox does not allow to install any extensions yet. But since the theme is made with CSS it should basically work with any other extension that allows it. Stylish for example. 
+
 **What doesn't work ?**
 
 1. In firefox it might corrupt the theme and not look as good as it should. Feel free to fix it or improve it if that's the case.
 
 2. In case some results come from several search engines, your tags might get out of the box (especially in your mobile version).
+
 
 
 
