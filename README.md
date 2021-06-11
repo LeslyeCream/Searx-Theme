@@ -8,6 +8,11 @@ _I am not a professional programmer or designer. This is a small project that wa
 
 A new and revamped theme for the metasearch engine [Searx](https://github.com/searx/searx), using [Stylebot](https://github.com/ankit/stylebot) (CSS). It is mainly focused for those who are just starting their migration from other services (Google, Bing, etc) and miss a friendly UI/UX.
 
+## Screenshots
+
+![](https://github.com/LeslyeCream/Searx-Theme/blob/main/Results.png)
+![](https://github.com/LeslyeCream/Searx-Theme/blob/main/Images.png)
+
 ## How to use it ? 
 
 1. Install Stylebot in Firefox or Chrome
