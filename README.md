@@ -47,5 +47,5 @@ Currently it is only possible from some Chromium based browsers. Either kiwi Bro
 
 _For personal, non-commercial use only. Feel free to share, modify or improve it without forgetting to mention the original project._
 
-**If you have found it useful, consider buying me a [coffee](https://paypal.me/leslyecream?locale.x=en_US) as a thank you.**
+**If you have found it useful, consider buying me a [coffee](https://www.paypal.com/donate?business=christopherg3828%40gmail.com&item_name=Risus%20Livium%20-%20Unsplash&currency_code=USD) as a thank you.**
 
